@@ -27,9 +27,14 @@ Customize the KPIs based on your organization's specific requirements.
 6. Data Visualization
 The dashboard uses various charts and graphs to visualize HR data. Feel free to adjust chart types or formatting to suit your preferences.
 7. Exporting Data
+
 If you need to export specific data for further analysis, use the "Export Data" option located on each tab.
-8. Interpretation and Decision-Making
-Use the insights gained from the dashboard to make informed HR decisions and strategies to reduce attrition rates and improve workforce management.
+8. Interpretation and Decision-Making Use the insights gained from the dashboard to make informed HR decisions and strategies to reduce attrition rates and improve workforce management.
+
+
+![image](https://github.com/prernaInkar43/HR-Data-analytics/assets/96662678/61e35263-fdc7-4bce-ad62-e035ec45f0e7)
+
+
 
 
 
